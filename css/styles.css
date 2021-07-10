@@ -881,13 +881,10 @@ footer {
   fill: var(--accent-text-color);
 }
 
-/* .modal-input:hover,
-.comment:hover,
-.modal-input:focus,
-.comment:focus {
+.modal-input:hover,
+.modal-input:focus {
   border: 1px solid var(--accent-text-color);
-} */
-
+}
 .modal-icon {
   position: absolute;
   top: 50%;
